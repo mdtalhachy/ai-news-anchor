@@ -1,1 +1,1 @@
-###AI News Reader that reads news for you by Voice Command
+### AI News Reader that reads news for you by Voice Command
